@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(230, 205, 174);
+}
+
+.text-brown {
+    color: rgb(40, 29, 24);
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 35px;
+}
+.container {
+    background-color: rgb(143, 41, 41);
+    width: 300px;
+    border-radius: 20px;
+}
+
+.box {margin-left: 500px;
+    margin-right: 200px;
+}
+
+.box2 {margin-left: 1150px;
+    font-weight: bolder;
+}
+
+.yanyana {
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 540px;
+    font-weight: bolder; /* Kalın yazı stilini uygular */
+    font-size: 18px;
+}
+
+.alt-cizgi {
+    text-decoration: underline; /* Alt çizgi ekler */
+    color: black; /* Yazı rengini siyah yapar */
+    margin-right: 10px;
+}
